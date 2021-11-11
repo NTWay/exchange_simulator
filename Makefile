@@ -1,6 +1,6 @@
 GCC = gcc
 
-SRCS = ./srcs/read_from_file.c ./srcs/RB_tree.c ./srcs/ft_split.c
+SRCS = ./src/read_from_file.c ./src/RB_tree.c ./src/ft_split.c
 
 NAME = prog
 
